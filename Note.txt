@@ -1,0 +1,7 @@
+GDD
+Game Development Document Design
+
+1.Concept: 操作方式，视角，目标
+2.Rules：初始状态，战斗方式，胜利条件，失败条件，限制条件
+3.Assets Requirements：主角及动作，场景，特效
+4.Monetisation：付费方式
